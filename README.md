@@ -22,7 +22,7 @@ Develop a linear program to determine the optimum production schedule (Taha, pg.
 * Problem is sequential
 * FIFO ("First-In First-Out")
 
-[Solution]()
+[Solution](https://github.com/Erick7451/O.R.-with-Julia/blob/master/solutions/problem1.jl)
 
 ---
 
@@ -33,13 +33,13 @@ includes leather and synthetics, leather being the scarce raw material. The prod
 requires two types of skilled labor: sewing and finishing. The following table gives the
 availability of the resources, their usage by the three products, and the profits per unit.
 
-![gutchi](C:\Users\erick\Documents\Github\O.R. with Julia\images\gutchi.PNG)
+![gutchi](https://github.com/Erick7451/O.R.-with-Julia/blob/master/images/gutchi.PNG)
 
 (a) Formulate the problem as a linear program, and find the optimum solution (using
 TORA, Excel Solver, or AMPL).
 (b) From the optimum solution, determine the status of each resource (Taha, pg. 152).
 
-[Solution]()
+[Solution](https://github.com/Erick7451/O.R.-with-Julia/blob/master/solutions/problem2.jl)
 
 ---
 
@@ -47,9 +47,9 @@ TORA, Excel Solver, or AMPL).
 
 Solve below ZudokuX 
 
-![SudokuX](C:\Users\erick\Documents\Github\O.R. with Julia\images\SudokuX.png)
+![SudokuX](https://github.com/Erick7451/O.R.-with-Julia/blob/master/images/SudokuX.png)
 
-[Solution]()
+[Solution](https://github.com/Erick7451/O.R.-with-Julia/blob/master/solutions/sudokuX.jl)
 
 
 
