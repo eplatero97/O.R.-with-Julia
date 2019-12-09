@@ -42,6 +42,7 @@ availability of the resources, their usage by the three products, and the profit
 
 (a) Formulate the problem as a linear program, and find the optimum solution (using
 TORA, Excel Solver, or AMPL).
+
 (b) From the optimum solution, determine the status of each resource (Taha, pg. 152).
 
 [Solution](https://github.com/Erick7451/O.R.-with-Julia/blob/master/solutions/problem3.jl)
