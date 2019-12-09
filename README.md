@@ -48,7 +48,7 @@ TORA, Excel Solver, or AMPL).
 
 ---
 
-#### Problem 3
+#### Problem 4
 
 Solve below ZudokuX 
 
