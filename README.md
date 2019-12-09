@@ -16,17 +16,22 @@ than needed in a given month and hold the extra units for delivery in later mont
 incur a storage cost at the rate of $8 per window per month, assessed on end-of-month inventory.
 Develop a linear program to determine the optimum production schedule (Taha, pg. 64-65).
 
-**Unique Properties:**
-
-* Contract must be satisfied
-* Problem is sequential
-* FIFO ("First-In First-Out")
-
 [Solution](https://github.com/Erick7451/O.R.-with-Julia/blob/master/solutions/problem1.jl)
 
 ---
 
 #### Problem 2
+
+In preparation for the winter season, a clothing company is manufacturing parka and goose
+overcoats, insulated pants, and gloves. All products are manufactured in four different departments: cutting, insulating, sewing, and packaging. The company has received firm orders for its products. The contract stipulates a penalty for undelivered items. Devise an **optimal production plan** for the company based on the following data:
+
+![problem2](https://github.com/Erick7451/O.R.-with-Julia/blob/master/images/problem2.PNG)
+
+[Solution](https://github.com/Erick7451/O.R.-with-Julia/blob/master/solutions/problem2.jl)
+
+---
+
+#### Problem 3
 
 The Gutchi Company manufactures purses, shaving bags, and backpacks. The construction
 includes leather and synthetics, leather being the scarce raw material. The production process
@@ -39,7 +44,7 @@ availability of the resources, their usage by the three products, and the profit
 TORA, Excel Solver, or AMPL).
 (b) From the optimum solution, determine the status of each resource (Taha, pg. 152).
 
-[Solution](https://github.com/Erick7451/O.R.-with-Julia/blob/master/solutions/problem2.jl)
+[Solution](https://github.com/Erick7451/O.R.-with-Julia/blob/master/solutions/problem3.jl)
 
 ---
 

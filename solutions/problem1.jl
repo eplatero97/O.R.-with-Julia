@@ -33,9 +33,9 @@ into two groups, one representing the immediate use of previous surplus
 and the other indicating our new surplus for the current month
 =#
 use = cat(0,I; dims =1 )
-save = cat(I, 0; dims = 1)
+store = cat(I, 0; dims = 1)
 
-cons = use .+ x .- save
+cons = use .+ x .- store
 cons
 
 # Our contract specifications
@@ -48,11 +48,11 @@ b = [100, 250, 190, 140, 220, 110]
 # optimize
 optimize!(model)
 
-# get minimum cost
+# attain optimal D.V.
 obj = objective_value(model)
 println("Objective Value:")
 display(obj)
 println("Optimal Window Variables:")
 println(value.(x))
 println("Optimal Inventory Variables:")
-println(value.(x))
+println(value.(I))
