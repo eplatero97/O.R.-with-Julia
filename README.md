@@ -26,7 +26,7 @@ In preparation for the winter season, a clothing company is manufacturing parka 
 overcoats, insulated pants, and gloves. All products are manufactured in four different departments: cutting, insulating, sewing, and packaging. The company has received firm orders for its products. The contract stipulates a penalty for undelivered items. Devise an **optimal production plan** for the company based on the following data:
 
 ![problem2](https://github.com/Erick7451/O.R.-with-Julia/blob/master/images/problem2.PNG)
-
+(Taha, pg. 62-63)
 [Solution](https://github.com/Erick7451/O.R.-with-Julia/blob/master/solutions/problem2.jl)
 
 ---
