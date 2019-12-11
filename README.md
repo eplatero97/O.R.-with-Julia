@@ -33,6 +33,21 @@ overcoats, insulated pants, and gloves. All products are manufactured in four di
 
 #### Problem 3
 
+A company is planning the manufacture of a product for March, April, May, and June of next
+year. The demand quantities are 520, 720, 520, and 620 units, respectively. The company has a
+steady workforce of 10 employees but can meet fluctuating production needs by hiring and firing
+temporary workers. The extra costs of hiring and firing a temp in any month are \$200 and
+\$400, respectively. A permanent worker produces 12 units per month, and a temporary worker,
+lacking equal experience, produces 10 units per month. The company can produce more than
+needed in any month and carry the surplus over to a succeeding month at a holding cost of \$50
+per unit per month. Develop an optimal hiring/firing policy over the 4-month planning horizon (Taha, pg. 65)
+
+[Solution](https://github.com/Erick7451/O.R.-with-Julia/blob/master/solutions/multiperiod_production_smoothing_model.jl)
+
+---
+
+#### Problem 4
+
 The Gutchi Company manufactures purses, shaving bags, and backpacks. The construction
 includes leather and synthetics, leather being the scarce raw material. The production process
 requires two types of skilled labor: sewing and finishing. The following table gives the
@@ -49,7 +64,7 @@ TORA, Excel Solver, or AMPL).
 
 ---
 
-#### Problem 4
+#### Problem 5
 
 Solve below ZudokuX 
 
