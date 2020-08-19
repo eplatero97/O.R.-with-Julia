@@ -1,8 +1,8 @@
 # Daily O.R. Problem using Julia
 
-Julia is a fast, intuitive, and a dynamic programming language, which makes it extremely adept for an O.R. domain.
+Julia is a fast, intuitive, and dynamic programming language that is extremely adept for solving O.R. related problems.
 
-Each problem will be solved using JuMP, a mathematical modeling language for optimization (Version 0.20.0).
+Below, each problem will be solved using JuMP, a mathematical modeling language for optimization (Version 0.20.0).
 
 ---
 
