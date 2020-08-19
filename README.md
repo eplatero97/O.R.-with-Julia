@@ -25,6 +25,7 @@ Develop a linear program to determine the optimum production schedule (Taha, pg.
 In preparation for the winter season, a clothing company is manufacturing parka and goose
 overcoats, insulated pants, and gloves. All products are manufactured in four different departments: cutting, insulating, sewing, and packaging. The company has received firm orders for its products. The contract stipulates a penalty for undelivered items. Devise an **optimal production plan** for the company based on the following data:
 (Taha, pg. 62-63)
+
 ![problem2](https://github.com/Erick7451/O.R.-with-Julia/blob/master/images/problem2.PNG)
 
 [Solution](https://github.com/Erick7451/O.R.-with-Julia/blob/master/solutions/problem2.jl)
